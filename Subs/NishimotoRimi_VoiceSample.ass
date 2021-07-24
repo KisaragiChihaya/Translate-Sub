@@ -10,7 +10,7 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
-Last Style Storage: Rimi
+Last Style Storage: ArtiStreet
 Audio File: NishimotoRimi_VoiceSample.mp4
 Video File: NishimotoRimi_VoiceSample.mp4
 Video AR Mode: 4
@@ -25,7 +25,6 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Rimi Normal,华康金刚黑A Std Semibold,56,&H00FFFFFF,&H000000FF,&H00BB55FF,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,25,1
 Style: Rimi Small,华康金刚黑A Std Semibold,36,&H00FFFFFF,&H000000FF,&H00BB55FF,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
 Style: Credit,华康正颜楷体W7P,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,10,10,25,1
-Style: Annotation,华康金刚黑A Std Semibold,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,15,10,15,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
