@@ -20,6 +20,6 @@
 | sasaki_nao03 | 佐佐木奈绪声音样本 Part3 | 翻译：中西<br>校对：中西<br>时间轴：中西 | 0% | 规划任务 | 会和sasaki_nao01、sasaki_nao02投在一起 |
 | v13_miyake | 三宅麻理惠声音样本 | 翻译：中西<br>校对：中西<br>时间轴：中西 | 0% | 规划任务 | - |
 | yomichi_01 ~ yomichi_21（共21个） | 夜道雪声音样本（合集） | 翻译：中西<br>校对：中西<br>时间轴：中西 | 0% | 规划任务 | 这人的声音样本全是短篇，而且其事务所官网有一部分样本被隐藏了，所以可能会分P投稿也有可能会做成一个视频投稿 |
-
+| Forbes-JAPAN-Yamaguchi-Ichiro-interview | Forbes JAPAN 山口一郎专访 | - | 0% | 规划任务 | 原版视频同时有[文字版](https://forbesjapan.com/articles/detail/22226)，微博@sakanaction鱼研所已经释出过[文字版的翻译](https://weibo.com/ttarticle/p/show?id=2309404338293771735380)，在想要不要重新翻译一次视频 |
 # LICENCE
 [GNU FDL](LICENCE)
