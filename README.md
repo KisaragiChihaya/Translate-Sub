@@ -18,8 +18,8 @@
 
 | 文件名称（暂定） | 视频名称（拟定）| 制作人员 | 具体进度 | 进度说明 | 备注 | 
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| ArtiStreet-Nishimoto-Rimi-Baton-Ainyan | ArtiStreet Baton 西本里美 あいにゃん专访 | 翻译：nippa（主）、中西（润色、注释）<br>校对：中西<br>时间轴：中西 | 翻译：80%<br>校对：15%<br>时间轴：15% | 翻译鸽了好久了，只能暂时咕咕咕 | - |
-| v13_miyake | 三宅麻理惠声音样本 | 翻译：中西<br>校对：中西<br>时间轴：中西 | 时间轴：100%<br>翻译：50% | 翻译中 | - |
+| ArtiStreet-Nishimoto-Rimi-Baton-Ainyan | ArtiStreet Baton 西本里美 あいにゃん专访 | 翻译：nippa（主）、中西（润色、注释）<br>校对：中西<br>时间轴：中西 | 翻译：100%<br>校对：15%<br>时间轴：15% | 在做了在做了 | - |
+| v13_miyake | 三宅麻理惠声音样本 | 翻译：中西<br>校对：中西<br>时间轴：中西 | 时间轴：100%<br>翻译：50% | 翻译中（暂缓） | - |
 | sasaki_nao01 | 佐佐木奈绪声音样本 Part1 | 翻译：中西<br>校对：中西<br>时间轴：中西 | 0% | 规划任务 | 会和sasaki_nao02、sasaki_nao03投在一起 |
 | sasaki_nao02 | 佐佐木奈绪声音样本 Part2 | 翻译：中西<br>校对：中西<br>时间轴：中西 | 0% | 规划任务 | 会和sasaki_nao01、sasaki_nao03投在一起 |
 | sasaki_nao03 | 佐佐木奈绪声音样本 Part3 | 翻译：中西<br>校对：中西<br>时间轴：中西 | 0% | 规划任务 | 会和sasaki_nao01、sasaki_nao02投在一起 |
