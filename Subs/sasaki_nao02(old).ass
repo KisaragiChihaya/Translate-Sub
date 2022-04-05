@@ -23,9 +23,8 @@ Video AR Value: 1.777778
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Nao Normal,华康金刚黑A Std Semibold,56,&H00FFFFFF,&H000000FF,&H00E2A7C1,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,25,1
-Style: Nao Small,华康金刚黑A Std Semibold,36,&H00FFFFFF,&H000000FF,&H00E2A7C1,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,25,1
+Style: Nao Small,DFHSGothic-W7,36,&H00FFFFFF,&H000000FF,&H00E2A7C1,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,25,1
 Style: Credit,华康正颜楷体W7P,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,10,10,25,1
-Style: Annotation,华康金刚黑A Std Semibold,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,15,10,15,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
