@@ -4,14 +4,14 @@
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 ScriptType: v4.00+
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
 Title: 【中字】长谷川育美声音样本
 Original Translation: 中西
 Original Editing: 中西
 Original Timing: 中西
 Synch Point: 中西
-PlayResX: 1920
-PlayResY: 1080
-YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
