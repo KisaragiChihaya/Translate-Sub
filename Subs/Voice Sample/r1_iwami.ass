@@ -30,7 +30,7 @@ Style: Credit,华康正颜楷体W7P,36,&H00FFFFFF,&H000000FF,&H00000000,&H000000
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:03.00,Credit,,0,0,0,,{\fad(200,200)}本视频由爱好者制作，视频中部分内容属于以介绍为目的的适当引用\N若视频传播过程中出现法律问题，本视频制作者概不承担任何责任
 Dialogue: 0,0:00:03.00,0:00:06.00,Credit,,0,0,0,,{\fad(200,200)}本视频翻译内容使用GNU FDL（自由文档许可证）授权，其余内容著作权皆归原作者所有\N请参照 www.gnu.org/licenses/fdl.html 合理使用本翻译
-Dialogue: 0,0:00:06.00,0:00:09.00,Credit,,0,0,0,,{\fad(200,200)}片源：自制  翻译：中西  校对：中西  时间轴：中西  压制：中西
+Dialogue: 0,0:00:06.00,0:00:09.00,Credit,,0,0,0,,{\fad(200,200)}片源：自制  翻译：中西  校对：中西  时间轴：中西  压制：中西\N特别感谢：哔哩哔哩@我永远爱着石原夏织
 Dialogue: 0,0:00:01.57,0:00:02.90,Manaka Small,,0,0,0,,石見舞菜香です
 Dialogue: 0,0:00:01.57,0:00:02.90,Manaka Normal,,0,0,0,,石见舞菜香
 Dialogue: 0,0:00:05.67,0:00:09.57,Manaka Small,,0,0,0,,実は昨日ね、アップルパイを作ってみたの
@@ -65,8 +65,8 @@ Dialogue: 0,0:01:01.83,0:01:03.23,Manaka Small,,0,0,0,,ほら、笑いで
 Dialogue: 0,0:01:01.83,0:01:03.23,Manaka Normal,,0,0,0,,来，笑一个
 Dialogue: 0,0:01:03.64,0:01:05.05,Manaka Small,,0,0,0,,にっこで
 Dialogue: 0,0:01:03.64,0:01:05.05,Manaka Normal,,0,0,0,,微笑也行
-Dialogue: 0,0:01:07.39,0:01:10.33,Manaka Small,,0,0,0,,それかして、後は私がやっておくわ
-Dialogue: 0,0:01:07.39,0:01:10.33,Manaka Normal,,0,0,0,,就这样吧，剩下的我来处理
+Dialogue: 0,0:01:07.39,0:01:10.33,Manaka Small,,0,0,0,,それ貸して、後は私がやっておくわ
+Dialogue: 0,0:01:07.39,0:01:10.33,Manaka Normal,,0,0,0,,把那个给我吧，剩下的我来处理
 Dialogue: 0,0:01:11.83,0:01:14.40,Manaka Small,,0,0,0,,体調、あまり良くないんでしょ？
 Dialogue: 0,0:01:11.83,0:01:14.40,Manaka Normal,,0,0,0,,你身体不太好吧？
 Dialogue: 0,0:01:15.71,0:01:16.82,Manaka Small,,0,0,0,,(笑)

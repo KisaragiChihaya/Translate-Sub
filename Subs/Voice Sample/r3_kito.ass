@@ -7,11 +7,6 @@ ScriptType: v4.00+
 YCbCr Matrix: TV.601
 PlayResX: 1920
 PlayResY: 1080
-Title: 【中字】鬼头明里声音样本
-Original Translation: 中西
-Original Editing: 中西
-Original Timing: 中西
-Synch Point: 中西
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
@@ -30,7 +25,7 @@ Style: Credit,华康正颜楷体W7P,36,&H00FFFFFF,&H000000FF,&H00000000,&H000000
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:03.00,Credit,,0,0,0,,{\fad(200,200)}本视频由爱好者制作，视频中部分内容属于以介绍为目的的适当引用\N若视频传播过程中出现法律问题，本视频制作者概不承担任何责任
 Dialogue: 0,0:00:03.00,0:00:06.00,Credit,,0,0,0,,{\fad(200,200)}本视频翻译内容使用GNU FDL（自由文档许可证）授权，其余内容著作权皆归原作者所有\N请参照 www.gnu.org/licenses/fdl.html 合理使用本翻译
-Dialogue: 0,0:00:06.00,0:00:09.00,Credit,,0,0,0,,{\fad(200,200)}片源：自制  翻译：中西  校对：中西  时间轴：中西  压制：中西\N特别感谢：Mizuki
+Dialogue: 0,0:00:06.00,0:00:09.00,Credit,,0,0,0,,{\fad(200,200)}片源：自制  翻译：中西  校对：中西  时间轴：中西  压制：中西\N特别感谢：Mizuki、哔哩哔哩@我永远爱着石原夏织
 Dialogue: 0,0:00:00.55,0:00:01.84,Akari Small,,0,0,0,,鬼頭明里です
 Dialogue: 0,0:00:00.55,0:00:01.84,Akari Normal,,0,0,0,,鬼头明里
 Dialogue: 0,0:00:04.41,0:00:05.89,Akari Small,,0,0,0,,私決めた！
@@ -75,13 +70,13 @@ Dialogue: 0,0:01:14.86,0:01:16.50,Akari Small,,0,0,0,,起きるバル！
 Dialogue: 0,0:01:14.86,0:01:16.50,Akari Normal,,0,0,0,,起床了啪噜！
 Dialogue: 0,0:01:16.70,0:01:18.07,Akari Small,,0,0,0,,さぁララちゃん
 Dialogue: 0,0:01:16.70,0:01:18.07,Akari Normal,,0,0,0,,好了小拉拉
-Dialogue: 0,0:01:18.26,0:01:21.45,Akari Small,,0,0,0,,今日こそ悪者退治に出かけてもらってるよ
+Dialogue: 0,0:01:18.26,0:01:21.45,Akari Small,,0,0,0,,今日こそ悪者退治に出かけてもらっぱるよ
 Dialogue: 0,0:01:18.26,0:01:21.45,Akari Normal,,0,0,0,,今天一定要去消灭坏蛋哦
 Dialogue: 0,0:01:22.03,0:01:24.77,Akari Small,,0,0,0,,せっかく魔法少女に選ばれたバルーン
 Dialogue: 0,0:01:22.03,0:01:24.77,Akari Normal,,0,0,0,,好不容易被选为魔法少女啪噜
 Dialogue: 0,0:01:25.16,0:01:27.12,Akari Small,,0,0,0,,地球の平和のために
 Dialogue: 0,0:01:25.16,0:01:27.12,Akari Normal,,0,0,0,,为了地球的和平
-Dialogue: 0,0:01:27.42,0:01:29.96,Akari Small,,0,0,0,,いいぞ、参らんバル！
+Dialogue: 0,0:01:27.42,0:01:29.96,Akari Small,,0,0,0,,いいざ、参らんバル！
 Dialogue: 0,0:01:27.42,0:01:29.96,Akari Normal,,0,0,0,,要上了啪噜！
 Dialogue: 0,0:01:32.59,0:01:35.35,Akari Small,,0,0,0,,乙女の一大イベント「バレンタイン」
 Dialogue: 0,0:01:32.59,0:01:35.35,Akari Normal,,0,0,0,,少女的一大活动「情人节」
