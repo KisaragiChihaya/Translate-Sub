@@ -16,6 +16,9 @@ Synch Point: 中西
 [Aegisub Project Garbage]
 Last Style Storage: Default
 Audio File: Tadokoro_Azusa_Full.mp4
+Video File: Tadokoro_Azusa_Full.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -76,7 +79,7 @@ Dialogue: 0,0:01:29.86,0:01:32.87,Azusa Small,,0,0,0,,こ…ここ、どこだ�
 Dialogue: 0,0:01:29.86,0:01:32.87,Azusa Normal,,0,0,0,,这…这里是哪？
 Dialogue: 0,0:01:33.52,0:01:36.30,Azusa Small,,0,0,0,,とにかく、晩御飯までに見つけなくちゃ
 Dialogue: 0,0:01:33.52,0:01:36.30,Azusa Normal,,0,0,0,,不管怎样，一定要在晚饭前找到它
-Dialogue: 0,0:01:36.65,0:01:39.04,Azusa Small,,0,0,0,,またママに僕が怒られた
+Dialogue: 0,0:01:36.65,0:01:39.04,Azusa Small,,0,0,0,,またママに僕が怒られちゃう
 Dialogue: 0,0:01:36.65,0:01:39.04,Azusa Normal,,0,0,0,,要不然妈妈又要生我气了
 Dialogue: 0,0:01:39.75,0:01:40.46,Azusa Small,,0,0,0,,あ！
 Dialogue: 0,0:01:39.75,0:01:40.46,Azusa Normal,,0,0,0,,啊！
