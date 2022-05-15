@@ -82,7 +82,6 @@
 | voice_37_01            | 星希成奏声音样本                  | 翻译：中西<br>校对：中西<br>时间轴：中西 | 规划任务 | 0%                       | SMA 旗下                                                                                                    |
 | voice_79_01            | 水野朔声音样本                    | 翻译：中西<br>校对：中西<br>时间轴：中西 | 规划任务 | 0%                       | SMA 旗下                                                                                                    |
 | Matsuzaki_Rei          | 松嵜丽声音样本                    | 翻译：中西<br>校对：中西<br>时间轴：中西 | 规划任务 | 0%                       | Mausu 旗下                                                                                                  |
-| Igarashi_Hitomi        | 五十岚裕美声音样本                | 翻译：中西<br>校对：中西<br>时间轴：中西 | 规划任务 | 0%                       | Mausu 旗下                                                                                                  |
 | Hata_Sawako            | 秦佐和子声音样本                  | 翻译：中西<br>校对：中西<br>时间轴：中西 | 规划任务 | 0%                       | Mausu 旗下                                                                                                  |
 | Sekiguchi_Risa         | 关口理咲声音样本                  | 翻译：中西<br>校对：中西<br>时间轴：中西 | 规划任务 | 0%                       | Mausu 旗下                                                                                                  |
 | Kuwahara_Yuuki         | 桑原由气声音样本                  | 翻译：中西<br>校对：中西<br>时间轴：中西 | 规划任务 | 0%                       | Mausu 旗下                                                                                                  |
@@ -96,6 +95,7 @@
 | voice_27_01                             | Payton 尚未声音样本                      | 规划任务                                                            | 0%                                     | 已经有爱好者制作过，[点此跳转](https://www.bilibili.com/video/BV1kV411J7YD)。                                                                                       |
 | voice_45_01                             | 楠木灯声音样本                           | 规划任务                                                            | 0%                                     | 已经有爱好者制作过，[点此跳转](https://www.bilibili.com/video/BV1db411V7wx)。                                                                                       |
 | voice_85_01                             | 矢野妃菜喜声音样本                       | 规划任务                                                            | 0%                                     | 已经有爱好者制作过，[点此跳转](https://www.bilibili.com/video/BV1KP4y157TL?p=2)。                                                                                   |
+| Igarashi_Hitomi                         | 五十岚裕美声音样本                       | 翻译：中西<br>校对：中西<br>时间轴：中西                            | 0%                                     | 已经有爱好者制作过，[点此跳转](https://www.bilibili.com/video/BV1Cs411t7ZZ)下                                                                                       |
 
 ## LICENSE
 
